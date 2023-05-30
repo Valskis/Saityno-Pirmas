@@ -8,6 +8,5 @@ public class Main {
         EmployeeList employees = JaxbUtil.convertToPojo();
         System.out.println(employees);
         JaxbUtil.convertToXml(employees);
-        System.out.println("Converted to XML");
     }
 }
