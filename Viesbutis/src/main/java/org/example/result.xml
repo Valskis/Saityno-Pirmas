@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>John</name>
+        <role>Manager</role>
+        <surname>Doe</surname>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Jane</name>
+        <role>Assistant Manager</role>
+        <surname>Doe</surname>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Michael</name>
+        <role>Front Desk Agent</role>
+        <surname>Smith</surname>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Sarah</name>
+        <role>Housekeeping Supervisor</role>
+        <surname>Johnson</surname>
+    </employee>
+    <employee>
+        <id>5</id>
+        <name>Robert</name>
+        <role>Concierge</role>
+        <surname>Williams</surname>
+    </employee>
+    <employee>
+        <id>6</id>
+        <name>Emily</name>
+        <role>Waitstaff</role>
+        <surname>Anderson</surname>
+    </employee>
+    <employee>
+        <id>7</id>
+        <name>David</name>
+        <role>Security Guard</role>
+        <surname>Wilson</surname>
+    </employee>
+    <employee>
+        <id>8</id>
+        <name>Amy</name>
+        <role>Housekeeping Staff</role>
+        <surname>Thompson</surname>
+    </employee>
+    <employee>
+        <id>9</id>
+        <name>Christopher</name>
+        <role>Bellboy</role>
+        <surname>Lee</surname>
+    </employee>
+    <employee>
+        <id>10</id>
+        <name>Megan</name>
+        <role>Restaurant Manager</role>
+        <surname>Clark</surname>
+    </employee>
+</employees>
